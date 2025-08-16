@@ -45,7 +45,7 @@ This is a simple real-time chat application built with **Express**, **Socket.IO*
 
 ```bash
 git clone https://github.com/SanskarOmer/Real-Time_ChatApp-Using-WebSocket.git
-cd chatapp
+cd Real-Time_ChatApp-Using-WebSocket
 ```
 
 ```bash
