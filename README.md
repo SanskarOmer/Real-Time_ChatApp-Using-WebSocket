@@ -48,16 +48,19 @@ git clone https://github.com/SanskarOmer/Real-Time_ChatApp-Using-WebSocket.git
 cd chatapp
 ```
 
+```bash
 cd ../client
 npm install
+```
 
-
+```bash
 cd server
 node index.js
-
+```
+```bash
 cd ../client
 npm run dev
-
+```
 
 
 
