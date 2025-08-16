@@ -44,18 +44,12 @@ This is a simple real-time chat application built with **Express**, **Socket.IO*
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/chatapp.git
+git clone https://github.com/SanskarOmer/Real-Time_ChatApp-Using-WebSocket.git
 cd chatapp
+```
 
 cd ../client
 npm install
-
-chatapp/
-├── client/          # React frontend
-│   └── ...          
-├── server/          # Express backend
-│   └── ...          
-└── README.md
 
 
 cd server
